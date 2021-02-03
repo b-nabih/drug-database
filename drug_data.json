@@ -1,0 +1,2 @@
+[{"id":1, "national_drug_code":1111, "drug_name":"Tylenol", "drug_strength":"10 mg", "generic_code_num":11111111, "unit_of_measurement":1010, "dosage":"tablet"},
+ {"id":3, "national_drug_code":2222, "drug_name":"Advil", "drug_strength":"20 mg", "generic_code_num":22222222, "unit_of_measurement":2020, "dosage":"tablet"}]
